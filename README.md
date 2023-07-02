@@ -1,2 +1,2 @@
-# trains
-trains info
+# flights
+flights info
